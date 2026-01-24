@@ -27,7 +27,10 @@ img {
 a {
     color: var(--black);
     text-decoration: none;
+    
 }
+
+
 
 a:hover {
     color: var(--dark-purple);
